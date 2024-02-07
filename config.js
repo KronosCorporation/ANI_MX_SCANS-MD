@@ -14,16 +14,16 @@ const __dirname = global.__dirname(import.meta.url)
 
 
 global.owner = [
-   ['5215517489568','𝓢𝓾𝓹𝓻𝓮𝓶𝓮 𝓔𝓷𝓭𝔂𝓶𝓲𝓸𝓷 - Creador 👁️', false],
-    ['5215533827255', '𝓡𝓮𝔂 𝓔𝓷𝓭𝔂𝓶𝓲𝓸𝓷 - Creador 👑', true]
+   ['595975701824','❝𝕰𝖓𝖌𝖊𝖑𓆩𓆪❞ - Creador 👁️', false],
+    ['595975701824', '❝𝕰𝖓𝖌𝖊𝖑𓆩𓆪❞ - Creador 👑', true]
 ] // Cambia los numeros que quieras
 
 /**********GLOBAL INFO*****************/
 global.packname = '(☞ﾟ∀ﾟ)☞'
 global.amsicon = `🌎`
-global.author = '𝓡𝓮𝔂 𝓔𝓷𝓭𝔂𝓶𝓲𝓸𝓷'
-global.wm = '🌎ANI MX SCANS🌏'
-global.igfg = '★🌎ANI MX SCANS🌏★'
+global.author = '❝𝕰𝖓𝖌𝖊𝖑𓆩𓆪❞'
+global.wm = '𝕬⳽ⲙⲟ𝖽ⲉⳙ⳽'
+global.igfg = '❝𝕰𝖓𝖌𝖊𝖑𓆩𓆪❞'
 global.paypal = `https://www.paypal.me/AMxScan`
 global.urlgofc = 'https://www.facebook.com/groups/otakustogether'
 global.otkstgthr = 'ㄖㄒ卂Ҡ凵丂 ㄒㄖᎶ乇ㄒ卄乇尺'
